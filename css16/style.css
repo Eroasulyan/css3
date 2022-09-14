@@ -1,6 +1,15 @@
-div > p:nth-child(2){
-    color: brown;
-    font-size: 20px ;
+div > p:nth-child(3){
+    color: blueviolet;
+} p:first-child{
+    color: blue;
+ 
 }
+
+p:last-child{
+    color: brown;
+}
+
+
+  
 
   
